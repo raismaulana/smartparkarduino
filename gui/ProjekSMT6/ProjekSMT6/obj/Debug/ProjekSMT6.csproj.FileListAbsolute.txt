@@ -1,0 +1,12 @@
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\bin\Debug\ProjekSMT6.exe.config
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\bin\Debug\ProjekSMT6.exe
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\bin\Debug\ProjekSMT6.pdb
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\bin\Debug\MySql.Data.dll
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\obj\Debug\ProjekSMT6.csprojAssemblyReference.cache
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\obj\Debug\ProjekSMT6.Properties.Resources.resources
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\obj\Debug\ProjekSMT6.csproj.GenerateResource.cache
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\obj\Debug\ProjekSMT6.csproj.CoreCompileInputs.cache
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\obj\Debug\ProjekSMT6.csproj.CopyComplete
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\obj\Debug\ProjekSMT6.exe
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\obj\Debug\ProjekSMT6.pdb
+D:\Forbidden\Kuliah\SEMESTER 6\Workshop Sistem Tertanam\Tugas\tugas besar\gui\ProjekSMT6\ProjekSMT6\obj\Debug\ProjekSMT6.Form1.resources
